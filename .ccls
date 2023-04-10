@@ -1,0 +1,5 @@
+/usr/bin/g++ -std=c++17
+%h %cpp -std=c++17
+-isystem/usr/include/c++/11
+-isystem/usr/include/c++/11/debug
+-isystem/usr/include/c++/11/experimental
